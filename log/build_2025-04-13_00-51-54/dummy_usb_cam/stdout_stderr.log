@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/dummy_usb_cam/dummy_usb_cam.egg-info
+writing ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/PKG-INFO
+writing dependency_links to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/dependency_links.txt
+writing entry points to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/entry_points.txt
+writing requirements to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/requires.txt
+writing top-level names to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/top_level.txt
+writing manifest file '../../build/dummy_usb_cam/dummy_usb_cam.egg-info/SOURCES.txt'
+reading manifest file '../../build/dummy_usb_cam/dummy_usb_cam.egg-info/SOURCES.txt'
+writing manifest file '../../build/dummy_usb_cam/dummy_usb_cam.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/shabbir/ros2_ws/build/dummy_usb_cam/build
+creating /home/shabbir/ros2_ws/build/dummy_usb_cam/build/lib
+creating /home/shabbir/ros2_ws/build/dummy_usb_cam/build/lib/dummy_usb_cam
+copying dummy_usb_cam/publisher.py -> /home/shabbir/ros2_ws/build/dummy_usb_cam/build/lib/dummy_usb_cam
+copying dummy_usb_cam/__init__.py -> /home/shabbir/ros2_ws/build/dummy_usb_cam/build/lib/dummy_usb_cam
+running install
+running install_lib
+creating /home/shabbir/ros2_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam
+copying /home/shabbir/ros2_ws/build/dummy_usb_cam/build/lib/dummy_usb_cam/publisher.py -> /home/shabbir/ros2_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam
+copying /home/shabbir/ros2_ws/build/dummy_usb_cam/build/lib/dummy_usb_cam/__init__.py -> /home/shabbir/ros2_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam
+byte-compiling /home/shabbir/ros2_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam/publisher.py to publisher.cpython-310.pyc
+byte-compiling /home/shabbir/ros2_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/shabbir/ros2_ws/install/dummy_usb_cam/share/ament_index
+creating /home/shabbir/ros2_ws/install/dummy_usb_cam/share/ament_index/resource_index
+creating /home/shabbir/ros2_ws/install/dummy_usb_cam/share/ament_index/resource_index/packages
+copying resource/dummy_usb_cam -> /home/shabbir/ros2_ws/install/dummy_usb_cam/share/ament_index/resource_index/packages
+copying package.xml -> /home/shabbir/ros2_ws/install/dummy_usb_cam/share/dummy_usb_cam
+running install_egg_info
+Copying ../../build/dummy_usb_cam/dummy_usb_cam.egg-info to /home/shabbir/ros2_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam-0.0.0-py3.10.egg-info
+running install_scripts
+Installing publisher script to /home/shabbir/ros2_ws/install/dummy_usb_cam/lib/dummy_usb_cam
+writing list of installed files to '/home/shabbir/ros2_ws/build/dummy_usb_cam/install.log'
